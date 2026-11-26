@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1440px;
+    margin: auto;
+    font-family: "Manrope", sans-serif;
+}
+header{
+    display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.div-1{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.blue-btn{
+    padding: 12px 22px;
+    background-color: #4D77FF;
+    color: white;
+    border-radius: 10px;
+    border: none;
+
+}
+.white-btn{
+     padding: 12px 22px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    border: none;
+}
+.red{
+   color: #4D77FF;
+}
+a{
+    text-decoration: none;
+}
+.title{
+    font-size: 54px;
+}
+.description{
+    font-size: 14px;
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+
+.section-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.h-1{
+    text-align: center;
+    margin-bottom: 100px;
+    font-size: 32px;
+     font-weight: 700;
+     margin-top: 190px;
+}
+.card{
+    width: 287px;
+    padding: 40px;
+    background: white;
+    border-top: 5px solid #4D77FF;
+    border-radius: 10px;
+    box-shadow: 0px 10px 40px 0px #1212121A;
+
+}
+
+
+p{
+    margin-bottom: 12px;
+    margin-top: 14px;
+    font-size: 14px;
+    font-weight: 700;
+
+}
+.cards{
+    display: flex;
+    justify-content: space-between;
+}
+h6{
+    font-weight: 400;
+    font-size: 12px;
+    color: #696969;
+}
+
+.section-2{
+    margin-top: 120px;
+}
+.h6-6{
+ color: #4D77FF;
+ font-size: 14px;
+}
+
+.img-text{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 26px;
+}
+.section-3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 178px;
+}
+
+.div-3{
+    position: relative;
+}
+
+.card-img{
+    position: absolute;
+    width: 202px;
+
+}
+.section-4{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 178px;
+}
+.cardz{
+    display: flex;
+    gap: 0;
+    justify-content: center;
+}
+.carde{
+     width: 287px;
+     height: 190px;
+    padding: 30px 10px;
+    font-weight: 190px;
+    background: white;
+    border: 1px solid #d6e0e8;
+    border-top: 3px solid #3986d7;
+    text-align: center;
+    
+    
+}
+.carde h2{
+    font-size: 32px;
+    margin: 10px 0;
+}
+.carde p{
+    font-size: 14px;
+}
+.carde small{
+    display: block;
+    font-size: 10px;
+    color: #b0b0b0;
+    margin-top: 10px;
+    margin-top: 169px;
+}
+ .can-1{
+    text-align: center;
+ }
+ .blu-card{
+    display: flex;
+ }
+ .blu-div h4{
+    font-size: 25px;
+    width: 533px;
+    height: 160px;
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 132px;
+ }
+ .can-1{
+    margin-top: 141px;
+
+ }
+ .blu-div h5{
+    font-size: 20px;
+    margin-left: 132px;
+    margin-right: 513px;
+    margin-top: 168px;
+ }
+.blu-div small{
+    font-size: 14px;
+    margin-right: 454px;
+    margin-left: 129px;
+    margin-top: 168px;
+}
+.blu-card img{
+    margin-top: 120px;
+}
+
+.var{
+    list-style: none;
+}
+.nav li{
+    list-style: none;
+}
+.container-4{
+    display: flex;
+}
+
+.footer{
+    display: flex;
+}
+.nai{
+    margin-right: 150px;
+    margin-top: 221px;
+}
+.nav{
+    margin-left: 70px;
+    margin-top: 221px;
+}
+.var{
+    font-size: 20px;
+    width: 95px;
+    height: 28px;
+    color: black;
+}
+.nav img{
+    margin-left: 10px;
+}

@@ -1,0 +1,17 @@
+.cards{
+    border: 2px solid blue;
+    display: flex;
+    justify-content: space-between;
+    height: 500px;
+    align-items: center;
+}
+.card{
+    border: 2px solid red;
+    width: 200px;
+    
+
+}
+
+/* .card-2{
+    align-self: flex-end;
+} */

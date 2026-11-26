@@ -1,0 +1,32 @@
+/* button:hover{
+    background-color: brown;
+    color: aqua;
+}
+button:active{
+    background-color: lightblue;
+}
+ button:focus{
+    background-color: lightgreen;
+ }
+ ul li:nth-child(2){
+    color: red;
+ } */
+h1::after{
+    color: red;
+    content: "?";
+}
+p::first-letter{
+ font-display: 40px;
+ color: blue;
+}
+p:hover:first-line{
+    text-transform: uppercase;
+}
+p:hover::after{
+    content: "<4";
+    color: orange;
+    border: 1px solid black;
+
+
+}
+

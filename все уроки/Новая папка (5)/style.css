@@ -1,0 +1,28 @@
+body{
+    height: 900px;
+}
+.cards{
+    height: 300px;
+    border:2px solid green;
+    /* position: relative; */
+
+}
+.card{
+    border: 2px solid blue;
+}
+.card-1{
+    background-color: lightgray;
+}
+.card-2{
+    background-color: lightcoral;
+    position: relative;
+    top: 20px;
+    left: 15px;
+}
+.card-3{
+    background-color: lightgreen;
+    position: relative;
+}
+.card-4{
+    background-color: lightpink ;
+}

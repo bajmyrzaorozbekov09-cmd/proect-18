@@ -1,0 +1,23 @@
+.cards{
+    border: 2px solid black;
+    width: 500px;
+    z-index: 5;
+    position: relative;
+}
+.cards img{
+    width: 100%;
+    position: relative;
+    z-index: 3;
+}
+.cards button{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 100px;
+    inline-size: 200px;
+    height: 35px;
+    position: fixed;
+    z-index: 10;
+
+
+}

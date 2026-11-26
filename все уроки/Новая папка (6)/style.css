@@ -1,0 +1,84 @@
+
+
+.bon:hover{
+    color: blue;
+    background-color: black;
+}
+.bon:active{
+    transform: scale(0.89);
+}
+.bon{
+    width: 100px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 10px;
+    transition: all 0.3s;
+}
+.ben:hover{
+    color: red;
+    background-color: black;
+}
+.ben:active{
+    transform: scale(0.89);
+}
+.ben{
+    width: 100px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 10px;
+    transition: all 0.4s;
+}
+.byn:hover{
+    color: green;
+    background-color: black;
+}
+.byn:active{
+    transform: scale(0.89);
+}
+.byn{
+    width: 100px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 10px;
+    transition: all 0.5s;
+}
+.bia:hover{
+    color: orange;
+    background-color: black;
+}
+.bia:active{
+    transform: scale(0.90);
+}
+.bia{
+    width: 100px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 10px;
+    transition: all 0.6s;
+}
+.bai:hover{
+    color: yellow;
+    background-color: black;
+}
+.bai:active{
+    transform: scale(0.90);
+}
+.bai{
+    width:100px;
+    height:40px;
+    border-radius: 10px;
+    transition: all 0.7s;
+}
+.byi:hover{
+    color: blueviolet;
+    background-color: black;
+}
+.byi:active{
+    transform: scale(0.90);
+}
+.byi{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    transition: all 0.8s;
+}
